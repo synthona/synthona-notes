@@ -13,6 +13,7 @@
 - help page with useful links
 - ability to use the same client for multiple backend instances
 - async document editing
+- simple video editor
 - simple image editor
 - make it easy to create and manage multiple user accounts, personas, like on tumblr
 - ability to link in external files for on-device use-cases
