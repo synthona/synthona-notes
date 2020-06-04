@@ -13,6 +13,7 @@
 - simple image editor
 - ability to link in external files for on-device use-cases
 - port to electron
+- possibly add some kind of setup wizard if needed
 - update system
 - csurf security on server
 - rate limiting on server
