@@ -2,6 +2,10 @@
 
 - Redirect to newly created nodes
 - refactor node system to work more like an extensible plugin system
+- refactor css into a theming system
+- general file uploads
+- web scraping features for url uploads and updates to url input parsing
+- possibly adding certain commands which can be run via IO bar, parameter which can be passed in
 - refactor image and file upload system to all work through the same backend endpoint
 - help page with useful links
 - ability to use the same client for multiple backend instances
