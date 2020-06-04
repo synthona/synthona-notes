@@ -5,6 +5,8 @@
 - refactor css into a theming system
 - general file uploads
 - code editor for certain filetypes
+- text card node type (like text but with a small character limit so they fit completely on the cards)
+- option for server admins or whoever to toggle which node types can be used
 - look into using websockets for things
 - notifications system which can dynamically resurface old content based on things like linkStrength and association relations
 - web scraping features for url uploads and updates to url input parsing
@@ -13,12 +15,13 @@
 - help page with useful links
 - ability to use the same client for multiple backend instances
 - async document editing
-- simple video editor
 - simple image editor
 - make it easy to create and manage multiple user accounts, personas, like on tumblr
 - ability to link in external files for on-device use-cases
 - port to electron
+- simple video editor
 - possibly add some kind of setup wizard if needed
+- see if associations can work as part of a sort of 3D rendering engine
 - some sort of update system where users can subscribe to update feeds for the app or something
 - csurf security on server and corresponding updates to clientside
 - rate limiting on server
