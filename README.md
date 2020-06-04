@@ -1,7 +1,8 @@
 # Planned Features & Ideas
 
 - Redirect to newly created nodes
-- refactor node system on synthona-react-client to work more like an extensible plugin system
+- refactor node system to work more like an extensible plugin system
+- refactor image and file upload system to all work through the same backend endpoint
 - help page with useful links
 - ability to use the same client for multiple backend instances
 - async document editing
