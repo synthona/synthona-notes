@@ -4,6 +4,7 @@
 - refactor node system to work more like an extensible plugin system
 - refactor css into a theming system
 - general file uploads
+- code editor for certain filetypes
 - look into using websockets for things
 - notifications system which can dynamically resurface old content based on things like linkStrength and association relations
 - web scraping features for url uploads and updates to url input parsing
