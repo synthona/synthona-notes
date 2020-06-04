@@ -19,4 +19,7 @@
 - rate limiting on server
 - security checkthrough generally
 - permission system for how nodes are shared on a public server
+- infinite additional node types
+- - forms node type, forms system
+- - instances as node types
 - not posting everything here yet! this is just a start, got pages and pages of more interesting features planned as well
