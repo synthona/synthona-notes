@@ -28,6 +28,7 @@
   - hyperimages
   - ml models
   - 3D models
+  - hyperobjects
   - audio files
   - video streams
   - video files
