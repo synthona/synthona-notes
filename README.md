@@ -11,6 +11,7 @@
 - ability to use the same client for multiple backend instances
 - async document editing
 - simple image editor
+- make it easy to create and manage multiple user accounts, personas, like on tumblr
 - ability to link in external files for on-device use-cases
 - port to electron
 - possibly add some kind of setup wizard if needed
@@ -19,7 +20,15 @@
 - rate limiting on server
 - security checkthrough generally
 - permission system for how nodes are shared on a public server
+- import/export all data
+- import/export all node types, including associations in a given radius
 - infinite additional node types
   - forms node type, forms system
-  - instances as node types
+  - synthona instances as node types
+  - hyperimages
+  - ml models
+  - 3D models
+  - audio files
+  - video streams
+  - video files
 - not posting everything here yet! this is just a start, got pages and pages of more interesting features planned as well
