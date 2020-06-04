@@ -5,6 +5,7 @@
 - refactor css into a theming system
 - general file uploads
 - look into using websockets for things
+- notifications system
 - web scraping features for url uploads and updates to url input parsing
 - possibly adding certain commands which can be run via IO bar, parameter which can be passed in
 - refactor image and file upload system to all work through the same backend endpoint
@@ -33,4 +34,5 @@
   - audio files
   - video streams
   - video files
+  - nodes which can modify other nodes automatically under certain conditions
 - not posting everything here yet! this is just a start, got pages and pages of more interesting features planned as well
