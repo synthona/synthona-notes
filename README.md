@@ -17,7 +17,7 @@
 - ability to link in external files for on-device use-cases
 - port to electron
 - possibly add some kind of setup wizard if needed
-- update system
+- some sort of update system where users can subscribe to update feeds for the app or something
 - csurf security on server and corresponding updates to clientside
 - rate limiting on server
 - security checkthrough generally
