@@ -7,7 +7,7 @@
 - look into using websockets for things
 - notifications system which can dynamically resurface old content based on things like linkStrength and association relations
 - web scraping features for url uploads and updates to url input parsing
-- possibly adding certain commands which can be run via IO bar, parameter which can be passed in
+- possibly adding certain commands which can be run via IO bar, parameters which can be passed in
 - refactor image and file upload system to all work through the same backend endpoint
 - help page with useful links
 - ability to use the same client for multiple backend instances
