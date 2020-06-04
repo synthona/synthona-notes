@@ -17,7 +17,7 @@
 - port to electron
 - possibly add some kind of setup wizard if needed
 - update system
-- csurf security on server
+- csurf security on server and corresponding updates to clientside
 - rate limiting on server
 - security checkthrough generally
 - permission system for how nodes are shared on a public server
