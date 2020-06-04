@@ -5,7 +5,7 @@
 - refactor css into a theming system
 - general file uploads
 - look into using websockets for things
-- notifications system
+- notifications system which can dynamically resurface old content based on things like linkStrength and association relations
 - web scraping features for url uploads and updates to url input parsing
 - possibly adding certain commands which can be run via IO bar, parameter which can be passed in
 - refactor image and file upload system to all work through the same backend endpoint
