@@ -5,6 +5,7 @@
 - refactor css into a theming system
 - customizable backgrounds users can set, customizable color schemes
 - general file uploads
+- refresh tokens
 - code editor for certain filetypes
 - text card node type (like text but with a small character limit so they fit completely on the cards)
 - option for server admins or whoever to toggle which node types can be used
