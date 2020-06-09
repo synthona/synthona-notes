@@ -25,6 +25,7 @@
 - possibly add some kind of setup wizard if needed
 - see if associations can work as part of a sort of 3D rendering engine
 - some sort of update system where users can subscribe to update feeds for the app or something
+- a way to direct external feed subscriptions into a selected collection or auto-association
 - csurf security on server and corresponding updates to clientside
 - rate limiting on server
 - security checkthrough generally
