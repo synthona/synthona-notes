@@ -30,7 +30,7 @@
 - security checkthrough generally
 - permission system for how nodes are shared on a public server
 - import/export all data
-- import/export all node types, including associations in a given radius
+- custom import/export from a specific node outward, with specific parameters allowed including associations in a given radius
 - use some graphing library to let users visualize their data about themselves
 - infinite additional node types
   - forms node type, forms system
