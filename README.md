@@ -2,6 +2,7 @@
 
 - Redirect to newly created nodes
 - refactor node system to work more like an extensible plugin system
+- addtional accessibility features and updates
 - refactor css into a theming system
 - customizable backgrounds users can set, customizable color schemes
 - general file uploads
